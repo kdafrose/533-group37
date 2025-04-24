@@ -1,0 +1,360 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 1230,
+      "vusers.created": 1230,
+      "http.requests": 1230,
+      "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 1230,
+      "errors.ECONNREFUSED": 1230,
+      "vusers.failed": 1230
+    },
+    "rates": {
+      "http.request_rate": 9
+    },
+    "firstCounterAt": 1745107007581,
+    "lastCounterAt": 1745107157378,
+    "firstMetricAt": 1745107007581,
+    "lastMetricAt": 1745107157378,
+    "period": 1745107150000,
+    "summaries": {},
+    "histograms": {}
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 3,
+        "vusers.created": 3,
+        "http.requests": 3,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 3,
+        "errors.ECONNREFUSED": 3,
+        "vusers.failed": 3
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107007581,
+      "lastCounterAt": 1745107009583,
+      "firstMetricAt": 1745107007581,
+      "lastMetricAt": 1745107009583,
+      "period": "1745107000000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 15,
+        "vusers.created": 15,
+        "http.requests": 15,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 15,
+        "errors.ECONNREFUSED": 15,
+        "vusers.failed": 15
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107010584,
+      "lastCounterAt": 1745107019637,
+      "firstMetricAt": 1745107010584,
+      "lastMetricAt": 1745107019637,
+      "period": "1745107010000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 20,
+        "vusers.created": 20,
+        "http.requests": 20,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 20,
+        "errors.ECONNREFUSED": 20,
+        "vusers.failed": 20
+      },
+      "rates": {
+        "http.request_rate": 2
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107020589,
+      "lastCounterAt": 1745107029732,
+      "firstMetricAt": 1745107020589,
+      "lastMetricAt": 1745107029732,
+      "period": "1745107020000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 30,
+        "vusers.created": 30,
+        "http.requests": 30,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 30,
+        "errors.ECONNREFUSED": 30,
+        "vusers.failed": 30
+      },
+      "rates": {
+        "http.request_rate": 3
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107030630,
+      "lastCounterAt": 1745107039707,
+      "firstMetricAt": 1745107030630,
+      "lastMetricAt": 1745107039707,
+      "period": "1745107030000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 36,
+        "vusers.created": 36,
+        "http.requests": 36,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 36,
+        "errors.ECONNREFUSED": 36,
+        "vusers.failed": 36
+      },
+      "rates": {
+        "http.request_rate": 4
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107040652,
+      "lastCounterAt": 1745107049802,
+      "firstMetricAt": 1745107040652,
+      "lastMetricAt": 1745107049802,
+      "period": "1745107040000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 41,
+        "vusers.created": 41,
+        "http.requests": 41,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 41,
+        "errors.ECONNREFUSED": 41,
+        "vusers.failed": 41
+      },
+      "rates": {
+        "http.request_rate": 4
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107050174,
+      "lastCounterAt": 1745107059845,
+      "firstMetricAt": 1745107050174,
+      "lastMetricAt": 1745107059845,
+      "period": "1745107050000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 50,
+        "vusers.created": 50,
+        "http.requests": 50,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 50,
+        "errors.ECONNREFUSED": 50,
+        "vusers.failed": 50
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107060232,
+      "lastCounterAt": 1745107069814,
+      "firstMetricAt": 1745107060232,
+      "lastMetricAt": 1745107069814,
+      "period": "1745107060000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 57,
+        "vusers.created": 57,
+        "http.requests": 57,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 57,
+        "errors.ECONNREFUSED": 57,
+        "vusers.failed": 57
+      },
+      "rates": {
+        "http.request_rate": 6
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107070199,
+      "lastCounterAt": 1745107079879,
+      "firstMetricAt": 1745107070199,
+      "lastMetricAt": 1745107079879,
+      "period": "1745107070000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 65,
+        "vusers.created": 65,
+        "http.requests": 65,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 65,
+        "errors.ECONNREFUSED": 65,
+        "vusers.failed": 65
+      },
+      "rates": {
+        "http.request_rate": 7
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107080222,
+      "lastCounterAt": 1745107089887,
+      "firstMetricAt": 1745107080222,
+      "lastMetricAt": 1745107089887,
+      "period": "1745107080000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 73,
+        "vusers.created": 73,
+        "http.requests": 73,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 73,
+        "errors.ECONNREFUSED": 73,
+        "vusers.failed": 73
+      },
+      "rates": {
+        "http.request_rate": 7
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107090062,
+      "lastCounterAt": 1745107099893,
+      "firstMetricAt": 1745107090062,
+      "lastMetricAt": 1745107099893,
+      "period": "1745107090000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 81,
+        "vusers.created": 81,
+        "http.requests": 81,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 81,
+        "errors.ECONNREFUSED": 81,
+        "vusers.failed": 81
+      },
+      "rates": {
+        "http.request_rate": 8
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107100064,
+      "lastCounterAt": 1745107109973,
+      "firstMetricAt": 1745107100064,
+      "lastMetricAt": 1745107109973,
+      "period": "1745107100000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 89,
+        "vusers.created": 89,
+        "http.requests": 89,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 89,
+        "errors.ECONNREFUSED": 89,
+        "vusers.failed": 89
+      },
+      "rates": {
+        "http.request_rate": 9
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107110083,
+      "lastCounterAt": 1745107119960,
+      "firstMetricAt": 1745107110083,
+      "lastMetricAt": 1745107119960,
+      "period": "1745107110000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 100,
+        "vusers.created": 100,
+        "http.requests": 99,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 99,
+        "errors.ECONNREFUSED": 99,
+        "vusers.failed": 99
+      },
+      "rates": {
+        "http.request_rate": 10
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107120059,
+      "lastCounterAt": 1745107129999,
+      "firstMetricAt": 1745107120059,
+      "lastMetricAt": 1745107129999,
+      "period": "1745107120000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "http.requests": 152,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 152,
+        "errors.ECONNREFUSED": 152,
+        "vusers.failed": 152,
+        "vusers.created_by_name.0": 151,
+        "vusers.created": 151
+      },
+      "rates": {
+        "http.request_rate": 15
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107130004,
+      "lastCounterAt": 1745107139977,
+      "firstMetricAt": 1745107130004,
+      "lastMetricAt": 1745107139977,
+      "period": "1745107130000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 217,
+        "vusers.created": 217,
+        "http.requests": 217,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 217,
+        "errors.ECONNREFUSED": 217,
+        "vusers.failed": 217
+      },
+      "rates": {
+        "http.request_rate": 22
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107140007,
+      "lastCounterAt": 1745107149939,
+      "firstMetricAt": 1745107140007,
+      "lastMetricAt": 1745107149939,
+      "period": "1745107140000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 202,
+        "vusers.created": 202,
+        "http.requests": 202,
+        "plugins.metrics-by-endpoint./localhost:3000/ForumHome.errors.ECONNREFUSED": 202,
+        "errors.ECONNREFUSED": 202,
+        "vusers.failed": 202
+      },
+      "rates": {
+        "http.request_rate": 28
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1745107150017,
+      "lastCounterAt": 1745107157378,
+      "firstMetricAt": 1745107150017,
+      "lastMetricAt": 1745107157378,
+      "period": "1745107150000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}
